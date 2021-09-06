@@ -1,4 +1,15 @@
-### Hi there 👋
+<img align="right" width=300 src="https://ql.kaloyan.tech/assets/img/me.png" /> </p>
+
+# Hey 👋, I'm Kaloyan
+### CS Student @ TUES, Bulgaria
+
+- 🔭 I’m currently working on [Electry - The Smart Electricity Meter](https://github.com/C-Min-Min)
+- 🌱 I’m currently learning **React.JS & Swift**
+- 📫 How to reach me: [ql.kaloyan.tech](https://ql.kaloyan.tech)
+- 😄 Pronouns: he/him
+
+[![KokosTech's GitHub stats](https://github-readme-stats.vercel.app/api?username=kokostech&?count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kokostech" alt="kokostech" /> </p>
 
 <!--
 **KokosTech/KokosTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
