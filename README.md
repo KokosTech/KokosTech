@@ -1,4 +1,4 @@
-<img align="right" width=300 src="https://ql.kaloyan.tech/assets/img/irl.png" /> </p>
+<img align="right" width=300 src="https://ql.kaloyan.tech/assets/img/mepc.png" /> </p>
 
 # Hey 👋, I'm Kaloyan
 ### CS Student @ TUES, Bulgaria
