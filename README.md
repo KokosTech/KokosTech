@@ -3,7 +3,7 @@
 # Hey 👋, I'm Kaloyan
 ### CS Student @ TUES, Bulgaria
 
-- 🔭 I’m currently working on [Electry - The Smart Electricity Meter](https://github.com/C-Min-Min)
+- 🔭 I’m currently working on [sEDUbg - p2p student materials](https://github.com/sEDUbg)
 - 🌱 I’m currently learning **React.JS & Swift**
 - 📫 How to reach me: [ql.kaloyan.tech](https://ql.kaloyan.tech)
 - 😄 Felling: based
