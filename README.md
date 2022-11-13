@@ -4,7 +4,7 @@
 ### CS Student @ TUES, Bulgaria
 
 - 🔭 I’m currently working on [sEDUbg - p2p student materials](https://github.com/sEDUbg)
-- 🌱 I’m currently learning **React.JS & Swift**
+- 🌱 I’m currently learning **NextJS & SwiftUI**
 - 📫 How to reach me: [ql.kaloyan.tech](https://ql.kaloyan.tech)
 - 😄 Felling: based
 
