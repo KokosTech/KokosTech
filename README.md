@@ -3,10 +3,11 @@
 # Hey 👋, I'm Kaloyan
 ### CS Student @ TUES, Bulgaria
 
-- 🔭 I’m currently working on [sEDUbg - p2p student materials](https://github.com/sEDUbg)
-- 🌱 I’m currently learning **NextJS & SwiftUI**
+- 🔭 I’m currently working on [HackTUES 9's website](https://hacktues.bg)
+- 🌱 I’m currently learning **NextJS & Java**
 - 📫 How to reach me: [ql.kaloyan.tech](https://ql.kaloyan.tech)
 - 😄 Felling: based
+- 🫠 1,000 commits by the end of 2023
 
 [![KokosTech's GitHub stats](https://github-readme-stats.vercel.app/api?username=kokostech&?count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
