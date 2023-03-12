@@ -3,7 +3,7 @@
 # Hey 👋, I'm Kaloyan
 ### CS Student @ TUES, Bulgaria
 
-- 🔭 I’m currently working on [HackTUES 9's website](https://hacktues.bg)
+- 🔭 I’m currently working on [TUESFest's website](https://tuesfest.bg)
 - 🌱 I’m currently learning **NextJS & Java**
 - 📫 How to reach me: [ql.kaloyan.tech](https://ql.kaloyan.tech)
 - 😄 Felling: based
