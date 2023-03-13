@@ -9,10 +9,11 @@
 - 😄 Felling: based
 - 🫠 1,000 commits by the end of 2023
 
-[![KokosTech's GitHub stats](https://github-readme-stats.vercel.app/api?username=kokostech&?count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![KokosTech's GitHub stats](https://github-readme-stats.vercel.app/api?username=kokostech&?count_private=true&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+![GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=KokosTech&theme=transparent)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dark&no-bg=true&no-frame=true&column=3&margin-w=15&margin-h=15&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kokostech" alt="kokostech" /> </p>
 <!--
