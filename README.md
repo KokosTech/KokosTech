@@ -1,4 +1,4 @@
-<img align="right" width=300 src="https://kaloyan.tech/assets/me_cyrcl.png" />
+<img align="right" width=300 src="https://kaloyan.tech/assets/me_cyrcl.png?v=2" />
 
 # Hey 👋, I'm Kaloyan
 ### CS Student @ TUES, Bulgaria
@@ -9,6 +9,8 @@
 - 😄 Felling: based
 - 🫠 1,000 commits by the end of 2023
 
+<br>
+<br>
 <br>
 <img src="https://myreadme.vercel.app/api/embed/KokosTech?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 <br>
