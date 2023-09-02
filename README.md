@@ -12,7 +12,8 @@
 <br>
 <br>
 <br>
-<img src="https://myreadme.vercel.app/api/embed/KokosTech?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+<!-- &bgcolor=0D1116&textcolor=C8D1D9&titlecolor=C8D1D9 -->
+<img src="https://myreadme.vercel.app/api/embed/KokosTech?panels=userstatistics,toprepositories,toplanguages,commitgraph&color=1F6FEB" alt="reimaginedreadme" />
 <br>
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=kokostech" alt="kokostech" /></p>
