@@ -1,28 +1,16 @@
-<img align="right" width=300 src="https://ql.kaloyan.tech/assets/img/mepc.png" /> </p>
+<img align="right" width=300 src="https://kaloyan.tech/assets/me_cyrcl.png" />
 
 # Hey 👋, I'm Kaloyan
 ### CS Student @ TUES, Bulgaria
 
-- 🔭 I’m currently working on [TUESFest's website](https://tuesfest.bg)
-- 🌱 I’m currently learning **NextJS & Java**
-- 📫 How to reach me: [ql.kaloyan.tech](https://ql.kaloyan.tech)
+- 🔭 I’m currently working on my [diploma project](https://github.com/KokosTech/lenslend)
+- 🌱 I’m currently learning **NestJS & NextJS**
+- 📫 How to reach me: [kaloyan.tech](https://kaloyan.tech)
 - 😄 Felling: based
 - 🫠 1,000 commits by the end of 2023
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dark&no-bg=true&no-frame=true&column=3&margin-w=15&margin-h=15&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+<br>
+<img src="https://myreadme.vercel.app/api/embed/KokosTech?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+<br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kokostech" alt="kokostech" /> </p>
-<!--
-**KokosTech/KokosTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left"><img src="https://komarev.com/ghpvc/?username=kokostech" alt="kokostech" /></p>
